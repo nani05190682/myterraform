@@ -2,9 +2,7 @@
 
 
 provider "aws" {
-  # Configuration options
- # access_key = AKIAUV4JYJWTXRMRD5QA
- # secret_key = AKIAUV4JYJWTXRMRD5QAdgfhgrjghmf
+
  # region = us-east-1
 }
 
